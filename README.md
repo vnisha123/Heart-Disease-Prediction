@@ -22,19 +22,19 @@
 - Use plys such as countplot. histplot and scatterplot to visualize the relationship between the features.
   
 # Data Splitting
--Used both train test split and cross validation techniques.
+- Used both train test split and cross validation techniques.
 
 # Modeling
--Models used are 
-``Logistic Regression``
-``KNN``
-``Decision Tree``
-``Random Forest``
-``SVM``
-``Naive Bayes``
+- Models used are 
+- ``Logistic Regression``
+- ``KNN``
+- ``Decision Tree``
+- ``Random Forest``
+- ``SVM``
+- ``Naive Bayes``
 
 # Evaluation
--Accuracy and f1 score
+- Accuracy and f1 score
 
 # Result
 - Logistic Regression performed well compared to the other models
