@@ -2,6 +2,7 @@
 
 - This is Machine learning model for heart disease prediction
 - This project aims to compare the performance of different classifications models using both the train test split and cross validation techniques.
+- This is a personal project focused on exploring model behaviour and understanding the data and improving my skills in more EDA.
 
 # Dataset
 - The Dataset is taken from kaggle:  https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
